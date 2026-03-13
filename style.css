@@ -1,0 +1,27 @@
+body {
+    background-color: lightskyblue;
+    margin: 0;
+    padding: 0;
+}
+
+.heading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+
+#toggle{
+    display: block;
+    margin: 0 auto;
+    font-size: 35px;
+    font-family:Verdana, Tahoma, sans-serif;
+    border: solid black 2px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    background-color: black;
+}
+
